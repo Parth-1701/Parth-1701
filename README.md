@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I am Parth Havle
+
+I have moved my main account to the username [https://github.com/parthhavle]parthhavle
+
+Currently using the old username to redirect to the main account.
 
 <!--
 **Parth-1701/Parth-1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
