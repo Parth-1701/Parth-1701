@@ -1,6 +1,6 @@
 ## Hi, I am Parth Havle
 
-I have moved my main account to the username [https://github.com/parthhavle](parthhavle)
+I have moved my main account to the username [parthhavle](https://github.com/parthhavle)
 
 Currently using the old username to redirect to the main account.
 
